@@ -1,0 +1,33 @@
+INDEX NOTARVM.
+
+B = nod. Bambergensis Ε. ΙΙΙ. 4 saec. IX
+V = cod. Uindobonemis 583 saec. X.
+
+0 = cod. cremifanenni 36 saec. XII.
+
+W = cod. Uindobonensin 408 saec. XI.
+
+M = cod. Monacensis 2545 saec. XII.
+
+s = cod. Admontensis 739 saec. XII.
+
+a = cod. Abrinoonsis 162 saec. XII.
+
+P = cod. Parisinus 2015 saec. X.
+
+5 = cod. Beruensis 48 naec. X.
+
+F = fragm. Petropolitanum Q. Ι. 23 saec. IX.
+
+L = lectiones cod. Berolinensis lat. quart. 1 saec. x11. Ι in Halmii
+R :lectiones cod. Bruxellensis 1794 saec. X. l ediIione.
+α = conflemus librorum BVO M saL.
+
+φ = consensus librorum VCMs.
+
+β = consensus librorum PbR.
+
+v :lectio uulgata.
+
+ 
+
